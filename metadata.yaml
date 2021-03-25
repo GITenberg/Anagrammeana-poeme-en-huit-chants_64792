@@ -1,11 +1,16 @@
 _repo: Anagrammeana-poeme-en-huit-chants_64792
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64792-h/images/cover.jpg
 creator:
   author:
     agent_name: Hécart, Gabriel-Antoine-Joseph
     gutenberg_agent_id: '53052'
     url: http://www.gutenberg.org/2009/agents/53052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64792#Anagrammeana-poeme-en-huit-chants
 gutenberg_issued: '2021-03-11'
 gutenberg_type: Text
 identifiers:
